@@ -170,7 +170,7 @@ Start: 00:05:30
 Shingeki no Kyojin: The Final Season (Pierwszy film kinowy pierwszej części trzeciego partu ostatniego sezonu): 00:20:00
 Koori Zokusei Danshi to Cool na Douryou Joshi (Zakończenie Ep: 12): 01:20:00
 Urusei Yatsura (2022) (Ep: 22): 01:47:00
-Saga Królewska (Ep: 11): 02:04:00
+Królewska saga season 2 (Ep: 11): 02:04:00
 TRIGUN STAMPEDE (Ep: 11): 02:26:00
 Blue Lock (Ep: 20): 02:40:00
 Nocne Gadanie: 02:49:50
@@ -241,15 +241,15 @@ Mashle (Ep: 02): 00:40:45
 Kono Subarashii Sekai ni Bakuen wo! (Ep: 02): 00:59:00
 Dr. Stone: New World (Ep: 02): 01:12:12
 Yamada-kun to Lv999 no Koi wo Suru (Ep: 02): 01:27:42
-[Oshi no Ko]  (Ep: 01): 01:40:19
-My Home Hero  (Ep: 01 i 02): 02:27:37
-Skip to Loafer  (Ep: 02): 02:43:56
-Kimetsu no Yaiba: Katanakaji no Sato-hen  (Ep: 01): 02:53:10
-Ousama Ranking: Yuuki no Takarabako  (Ep: 01): 03:08:27
-Tonikaku Kawaii Season 2  (Ep: 02): 03:16:49
-EDENS ZERO 2nd Season  (Ep: 02): 03:26:05
-Vinland saga season 2  (Ep: 14 ... bez komentarza): 03:31:04
-One Piece  (Ep: 1456, 1457, 1458): 03:45:15
+[Oshi no Ko] (Ep: 01): 01:40:19
+My Home Hero (Ep: 01 i 02): 02:27:37
+Skip to Loafer (Ep: 02): 02:43:56
+Kimetsu no Yaiba: Katanakaji no Sato-hen (Ep: 01): 02:53:10
+Ousama Ranking: Yuuki no Takarabako (Ep: 01): 03:08:27
+Tonikaku Kawaii 2nd season (Ep: 02): 03:16:49
+EDENS ZERO 2nd Season (Ep: 02): 03:26:05
+Vinland saga season 2 (Ep: 14 ... bez komentarza): 03:31:04
+One Piece (Ep: 1456, 1457, 1458): 03:45:15
 Jigokuraku (Ep: 2 i 3): 03:56:38
 Serie dodatkowe, które omawiamy, bo nie omawiamy i zakończenie.: 04:16:25
 _____________________________________
@@ -263,7 +263,7 @@ Start: 00:05:46
 Dr. Stone: New World (Ep: 03): 00:15:55
 [Oshi no Ko] (Ep: 02): 00:32:13
 Vinland saga season 2 (Ep: 15): 00:59:33
-Tonikaku Kawaii Season 2  (Ep: 03): 01:13:13
+Tonikaku Kawaii 2nd season  (Ep: 03): 01:13:13
 Skip to Loafer  (Ep: 03): 01:20:37
 Mashle (Ep: 03): 01:26:58
 Kono Subarashii Sekai ni Bakuen wo! (Ep: 03): 01:47:45
@@ -298,7 +298,7 @@ Skip to Loafer  (Ep: 05): 01:51:00
 Yamada-kun to Lv999 no Koi wo Suru (Ep: 05): 02:03:25
 Ousama Ranking: Yuuki no Takarabako  (Ep: 04): 02:15:30
 Kimetsu no Yaiba: Katanakaji no Sato-hen  (Ep: 04): 02:24:50
-Tonikaku Kawaii Season 2  (Ep: 05): 02:36:00
+Tonikaku Kawaii 2nd season  (Ep: 05): 02:36:00
 My Home Hero  (Ep: 05): 02:47:17
 Jigokuraku  (Ep: 06): 02:55:50
 One Piece (Ep: 1061): 03:12:13
@@ -337,16 +337,16 @@ Rozdziały: 00:00:00
 Start: 00:06:25
 Mashle (Ep: 07): 00:34:29
 Kono Subarashii Sekai ni Bakuen wo! (Ep: 08): 00:55:10
-Ousama Ranking: Yuuki no Takarabako  (Ep: 07): 01:05:52
-Skip to Loafer  (Ep: 08): 01:15:43
+Ousama Ranking: Yuuki no Takarabako (Ep: 07): 01:05:52
+Skip to Loafer (Ep: 08): 01:15:43
 Dr. Stone: New World (Ep: 08): 01:29:40
 [Oshi no Ko] (Ep: 07): 01:42:28
-Kimetsu no Yaiba: Katanakaji no Sato-hen  (Ep: 07): 02:03:09
+Kimetsu no Yaiba: Katanakaji no Sato-hen (Ep: 07): 02:03:09
 Vinland saga season 2 (Ep: 20): 02:17:30
 Yamada-kun to Lv999 no Koi wo Suru (Ep: 08): 02:35:02
-My Home Hero  (Ep: 08): 02:48:20
-EDENS ZERO 2nd Season  (Ep: 08): 02:58:36
-Tonikaku Kawaii Season 2  (Ep: 07): 03:06:05
+My Home Hero (Ep: 08): 02:48:20
+EDENS ZERO 2nd Season (Ep: 08): 02:58:36
+Tonikaku Kawaii 2nd season (Ep: 07): 03:06:05
 One Piece (Ep: 1063): 03:20:00
 Zakończenie: 03:28:05
 _____________________________________
@@ -368,7 +368,7 @@ Kimetsu no Yaiba: Katanakaji no Sato-hen  (Ep: 08): 01:37:24
 My Home Hero  (Ep: 09): 01:51:46
 Mashle (Ep: 08): 02:04:59
 EDENS ZERO 2nd Season (Ep: 09): 02:20:27
-Tonikaku Kawaii Season 2 (Ep: 08 i 09): 02:28:46
+Tonikaku Kawaii 2nd season (Ep: 08 i 09): 02:28:46
 Jigokuraku (Ep: 09): 02:44:11
 One Piece (Ep: 1064): 03:00:20
 Ogłoszenia Paramiałne: 03:10:55
@@ -385,13 +385,13 @@ Yamada-kun to Lv999 no Koi wo Suru (Ep: 10): 00:24:28
 Kono Subarashii Sekai ni Bakuen wo! (Ep: 10): 00:56:00
 Dr. Stone: New World (Ep: 10): 01:06:55
 Mashle (Ep: 09): 01:18:20
-Skip to Loafer  (Ep: 09): 01:31:22
+Skip to Loafer (Ep: 09): 01:31:22
 Vinland saga season 2 (Ep: 22): 01:46:01
 EDENS ZERO 2nd Season (Ep: 10): 02:01:34
-Kimetsu no Yaiba: Katanakaji no Sato-hen  (Ep: 09): 02:08:43
-Ousama Ranking: Yuuki no Takarabako  (Ep: 09): 02:19:04
-My Home Hero  (Ep: 10): 02:30:30
-Tonikaku Kawaii Season 2 (Ep: 10): 02:44:05
+Kimetsu no Yaiba: Katanakaji no Sato-hen (Ep: 09): 02:08:43
+Ousama Ranking: Yuuki no Takarabako (Ep: 09): 02:19:04
+My Home Hero (Ep: 10): 02:30:30
+Tonikaku Kawaii 2nd season (Ep: 10): 02:44:05
 Jigokuraku (Ep: 09): 02:52:34
 One Piece (Ep: 1065): 03:07:16
 Rozchodniaczek i przyszły sezon.: 03:13:15
@@ -409,14 +409,14 @@ Rozdziały: 00:00:00
 Start: 00:04:12
 Jigokuraku (Zakończenie Ep: 12): 00:23:35
 [Oshi no Ko] (Ep: 10): 00:42:50
-My Home Hero  (Zakończenie Ep: 12): 01:04:00
-Skip to Loafer  (Zakończenie Ep: 12): 01:26:07
-Kimetsu no Yaiba: Katanakaji no Sato-hen  (Zakończenie Ep: 11): 01:40:55
+My Home Hero (Zakończenie Ep: 12): 01:04:00
+Skip to Loafer (Zakończenie Ep: 12): 01:26:07
+Kimetsu no Yaiba: Katanakaji no Sato-hen (Zakończenie Ep: 11): 01:40:55
 Kono Subarashii Sekai ni Bakuen wo! (Zakończenie Ep: 12): 02:01:25
 Vinland saga season 2 (Zakończenie Ep: 24): 02:19:10
 Mashle (Ep: 11): 02:41:27
 Yamada-kun to Lv999 no Koi wo Suru (Ep: 11): 02:54:20
-Tonikaku Kawaii Season 2 (Zakończenie Ep: 12): 03:02:47
+Tonikaku Kawaii 2nd season (Zakończenie Ep: 12): 03:02:47
 EDENS ZERO 2nd Season (Ep: 12): 03:13:00
 One Piece (Ep: 1066): 03:20:58
 Luźne gadanie: 03:35:30
@@ -430,7 +430,7 @@ Rozdziały: 00:00:00
 Start: 00:05:25
 Mashle (Zakończenie Ep: 12): 00:41:00
 Yamada-kun to Lv999 no Koi wo Suru (Zakończenie Ep: 13): 01:01:00
-Tonikaku Kawaii Season 2 (Tym razem na pewno Zakończenie Ep: 12): 01:17:10
+Tonikaku Kawaii 2nd season (Tym razem na pewno Zakończenie Ep: 12): 01:17:10
 [Oshi no Ko] (Zakończenie Ep: 11): 01:35:01
 Kaminaki Sekai no Kamisama Katsudou (Luźne gadanie o innych tytułach): 02:12:15
 Kubo-san wa Mob wo Yurusanai (Luźne gadanie o innych tytułach): 02:17:13
