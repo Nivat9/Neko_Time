@@ -477,7 +477,7 @@ Bleach: Sennen Kessen-hen - Ketsubetsu-tan (Ep: 01): 02:40:15
 Jujutsu Kaisen 2nd Season (Ep: 01): 02:54:00
 Kanojo, Okarishimasu 3rd Season (Ep: 01): 03:13:33
 Masamune-kun no Revenge R: 03:21:27
-Mushoku Tensei (Ep: 01): 03:23:00
+Mushoku Tensei II: Isekai Ittara Honki Dasu (Ep: 01): 03:23:00
 One Piece (Ep: 1067 i 1068): 03:30:07
 Zakończenie: 03:40:00
 _____________________________________
@@ -524,7 +524,7 @@ Start: 00:04:52
 Watashi no Shiawase na Kekkon (Ep: 01, 02 i 03): 00:25:45
 Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto (Ep: 01): 01:11:00
 Dekiru Neko wa Kyou mo Yuuutsu (Ep: 02): 01:26:46
-Mushoku Tensei II: Isekai Ittara Honki Dasu (Ep: 01): 01:38:06
+Mushoku Tensei II: Isekai Ittara Honki Dasu II: Isekai Ittara Honki Dasu (Ep: 01): 01:38:06
 Horimiya: piece (Ep: 03): 01:56:57
 Rurouni Kenshin: Meiji Kenkaku Romantan (2023) (Ep: 02): 02:20:20
 Wolne gadanie (w końcu trwało z godzinę, to szybkie nie było): 02:35:46
@@ -538,7 +538,7 @@ Start: 00:05:20
 Rurouni Kenshin: Meiji Kenkaku Romantan (2023) (Ep: 03): 00:26:20
 Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto (Ep: 02): 00:46:24
 Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto (Ep: 03): 00:57:40
-Mushoku Tensei II: Isekai Ittara Honki Dasu (Ep: 03) ?????: 01:11:11
+Mushoku Tensei II: Isekai Ittara Honki Dasu II: Isekai Ittara Honki Dasu (Ep: 03) ?????: 01:11:11
 Bleach: Sennen Kessen-hen - Ketsubetsu-tan (Ep: 02): 01:30:40
 Bleach: Sennen Kessen-hen - Ketsubetsu-tan (Ep: 03): 01:37:25
 Jujutsu Kaisen 2nd Season (Ep: 02): 01:46:18
@@ -583,7 +583,7 @@ Start: 00:05:30
 One Piece (Ep: 1071): 00:12:08
 Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto (Ep: 04): 00:30:54
 Rurouni Kenshin: Meiji Kenkaku Romantan (2023) (Ep: 05): 00:44:24
-Mushoku Tensei II: Isekai Ittara Honki Dasu (Ep: 05): 01:01:24
+Mushoku Tensei II: Isekai Ittara Honki Dasu II: Isekai Ittara Honki Dasu (Ep: 05): 01:01:24
 Jujutsu Kaisen 2nd Season (Ep: 05): 01:14:00
 Watashi no Shiawase na Kekkon (Ep: 05): 01:31:15
 Horimiya: piece (Ep: 06): 01:46:30
@@ -623,7 +623,7 @@ https://www.youtube.com/live/144yMGJdNUE
 Rozdziały: 00:00:00
 Start: 00:05:20
 Shinigami Bocchan to Kuro Maid 2nd Season (Ep: 05): 00:19:35
-Mushoku Tensei II: Isekai Ittara Honki Dasu (Ep: 05): 00:34:13
+Mushoku Tensei II: Isekai Ittara Honki Dasu II: Isekai Ittara Honki Dasu (Ep: 05): 00:34:13
 Watashi no Shiawase na Kekkon (Ep: 06): 00:53:32
 Rurouni Kenshin: Meiji Kenkaku Romantan (2023) (Ep: 06): 01:25:09
 Bleach: Sennen Kessen-hen - Ketsubetsu-tan (Ep: 06): 01:44:37
