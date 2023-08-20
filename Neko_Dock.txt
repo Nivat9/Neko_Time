@@ -13,7 +13,7 @@ Ijiranaide, Hayase-san 2nd Attack (Ep: 04): 02:03:03
 Boku no Hero Academia 6 (Ep: 16): 02:22:38
 Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken (Ep: 02): 02:45:28
 Koori Zokusei Danshi to Cool na Douryou Joshi (Ep: 03): 02:56:37
-Urusei Yatsura (Ep: 13): 03:06:13
+Urusei Yatsura (2022) (Ep: 13): 03:06:13
 Mairimashita! Iruma-kun 3 (Ep: 14): 03:21:05
 TRIGUN STAMPEDE (Zastanawianie się co z nim zrobić): 03:29:20
 Tensei Oujo to Tensai Reijou no Mahou Kakumei (Ep: 03): 03:34:21
@@ -33,7 +33,7 @@ Tomo-chan wa Onnanoko! (Ep: 04): 00:46:04
 Koori Zokusei Danshi to Cool na Douryou Joshi (Ep: 04): 01:02:27
 Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken (Ep: 03 i 04): 01:20:50
 Boku no Hero Academia 6 (Ep: 17): 01:40:18
-Urusei Yatsura (Ep: 14): 02:02:20
+Urusei Yatsura (2022) (Ep: 14): 02:02:20
 Kyuuketsuki Sugu Shinu 2 (Ep: 03): 02:16:34
 Buddy Daddies (Ep: 04): 02:31:24
 Tensei Oujo to Tensai Reijou no Mahou Kakumei (Ep: 04): 02:39:49
@@ -53,7 +53,7 @@ Start: 00:05:10
 Tomo-chan wa Onnanoko! (Ep: 05): 00:32:20
 Kyuuketsuki Sugu Shinu 2 (Ep: 04): 00:55:09
 Ijiranaide, Hayase-san 2nd Attack (Ep: 06): 01:07:49
-Urusei Yatsura (Ep: 15): 01:24:57
+Urusei Yatsura (2022) (Ep: 15): 01:24:57
 Buddy Daddies (Ep: 05): 01:45:10
 Boku no Hero Academia 6 (Ep: 18): 02:01:38
 Mairimashita! Iruma-kun 3 (Ep: 16): 02:22:24
@@ -71,7 +71,7 @@ Rozdziały: 00:00:00
 Start: 00:07:30
 Kyuuketsuki Sugu Shinu 2 (Ep: 02): 00:25:00
 Tomo-chan wa Onnanoko! (Ep: 06): 00:38:00
-Urusei Yatsura (Ep: 16): 00:55:00
+Urusei Yatsura (2022) (Ep: 16): 00:55:00
 TRIGUN STAMPEDE (Ep: 05): 01:07:00
 Tensei Oujo to Tensai Reijou no Mahou Kakumei (Ep: 05): 01:20:00
 Koori Zokusei Danshi to Cool na Douryou Joshi (Ep: 05): 01:33:00
@@ -96,7 +96,7 @@ Koori Zokusei Danshi to Cool na Douryou Joshi (Ep: 07): 01:22:01
 Buddy Daddies (Ep: 07): 01:31:11
 Boku no Hero Academia 6 (Ep: 20): 01:42:52
 Kyuuketsuki Sugu Shinu 2 (Ep: 05): 01:58:55
-Urusei Yatsura (Ep: 17): 02:14:40
+Urusei Yatsura (2022) (Ep: 17): 02:14:40
 Mairimashita! Iruma-kun 3 (Ep: 18): 02:29:40
 Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken (Ep: 07): 02:43:10
 Tensei Oujo to Tensai Reijou no Mahou Kakumei (Ep: 07): 02:56:57
@@ -142,7 +142,7 @@ Mairimashita! Iruma-kun 3 (Zakończenie Ep: 21): 01:35:25
 Ijiranaide, Nagatoro-san 2nd Attack (Ep: 11): 01:51:13
 Koori Zokusei Danshi to Cool na Douryou Joshi (Ep: 10): 02:07:31
 Tensei Oujo to Tensai Reijou no Mahou Kakumei (Ep: 10 i 9): 02:17:00
-Urusei Yatsura (Ep: 19 i 20): 02:30:46
+Urusei Yatsura (2022) (Ep: 19 i 20): 02:30:46
 Saga Farmerska (Ep: 08): 03:00:38
 Rozchodniaczek: 03:25:44
 _____________________________________
@@ -157,7 +157,7 @@ https://www.youtube.com/live/lVY8gNH4Zhs
 00:40:00 Ijiranaide, Nagatoro-san 2nd Attack (Zakończenie Ep: 12)
 01:02:00 Tomo-chan wa Onnanoko! (Ep: 11)
 01:20:00 Kyuuketsuki Chin Chin  2 (Ep: 09 i 10)
-01:45:00 Urusei Yatsura (Ep: 21)
+01:45:00 Urusei Yatsura (2022) (Ep: 21)
 02:01:00 Boku no Hero Academia 6 (Ep: 24)
 _____________________________________
 Live Stream Sezonowy - Anime Zima 2023 #13 (+Live Stream Luźny)
@@ -169,7 +169,7 @@ Rozdziały: 00:00:00
 Start: 00:05:30
 Shingeki no Kyojin: The Final Season (Pierwszy film kinowy pierwszej części trzeciego partu ostatniego sezonu): 00:20:00
 Koori Zokusei Danshi to Cool na Douryou Joshi (Zakończenie Ep: 12): 01:20:00
-Urusei Yatsura (Ep: 22): 01:47:00
+Urusei Yatsura (2022) (Ep: 22): 01:47:00
 Saga Królewska (Ep: 11): 02:04:00
 TRIGUN STAMPEDE (Ep: 11): 02:26:00
 Blue Lock (Ep: 20): 02:40:00
@@ -202,7 +202,7 @@ Tomo-chan wa Onnanoko! (Zakońcczenie Ep: 13): 00:26:35
 Kyuuketsuki Sugu Shinu 2 (Ep: 11): 00:48:15
 TRIGUN STAMPEDE (Zakońcczenie Ep: 12): 01:08:08
 Vinland saga season 2 (Zakońcczenie Ep: 12): 01:30:35
-Urusei Yatsura (Zakońcczenie Ep: 23): 01:50:30
+Urusei Yatsura (2022) (Zakońcczenie Ep: 23): 01:50:30
 Blue Lock (Zakońcczenie Ep: 23 i 24): 02:25:54
 Ogłoszenia parafialne.: 02:54:25
 _____________________________________
