@@ -1148,8 +1148,8 @@ Start: 00:04:14
 Dosanko Gal wa Namara Menkoi (Ep: 01): 00:19:00
 Sasaki to Pii-chan (Ep: 01 i 02): 00:34:43
 Yubisaki to Renren (Ep: 01 i 02): 01:10:00
-Boku no Kokoro no Yabai Yatsu (Ep: 01): 01:29:01
-Boku no Kokoro no Yabai Yatsu (Ep: 02): 01:34:58
+Boku no Kokoro no Yabai Yatsu Season 2 (Ep: 01): 01:29:01
+Boku no Kokoro no Yabai Yatsu Season 2 (Ep: 02): 01:34:58
 Tsuki ga Michibiku Isekai Douchuu 2nd Season (Ep: 01): 01:53:47
 Urusei Yatsura (2022) 2nd Season (Ep: 01): 02:13:22
 Kusuriya no Hitorigoto (Ep: 14): 02:33:44
@@ -1221,7 +1221,7 @@ Sasaki to Pii-chan (Ep: 03): 00:16:17
 Tsuki ga Michibiku Isekai Douchuu 2nd Season (Ep: 03): 00:27:40
 Megumi no Daigo: Kyuukoku no Orange (Ep: 15): 00:39:04
 Yubisaki to Renren (Ep: 03): 00:46:06
-Boku no Kokoro no Yabai Yatsu (Ep: 03): 01:00:29
+Boku no Kokoro no Yabai Yatsu Season 2 (Ep: 03): 01:00:29
 Undead Unluck (Ep: 15): 01:14:37
 Luźne Gadanie: 01:30:07
 _____________________________________
@@ -1258,7 +1258,7 @@ Mashle 2nd Season (Ep: 05): 02:18:39
 Urusei Yatsura (2022) 2nd Season (Ep: 03): 02:34:54
 Tsuki ga Michibiku Isekai Douchuu 2nd Season (Ep: 04): 02:49:07
 Dosanko Gal wa Namara Menkoi (Ep: 04): 03:01:33
-Boku no Kokoro no Yabai Yatsu (Ep: 04): 03:15:53
+Boku no Kokoro no Yabai Yatsu Season 2 (Ep: 04): 03:15:53
 Yubisaki to Renren (Ep: 05): 03:24:55
 Zakończenie: 03:42:13
 _____________________________________
@@ -1279,8 +1279,8 @@ Megumi no Daigo: Kyuukoku no Orange (Ep: 17): 02:10:46
 Tsuki ga Michibiku Isekai Douchuu 2nd Season (Ep: 05): 02:26:00
 Sasaki to Pii-chan (Ep: 06): 02:40:45
 Dosanko Gal wa Namara Menkoi (Ep: 05): 02:53:20
-Boku no Kokoro no Yabai Yatsu (Ep: 05): 03:08:05
-Boku no Kokoro no Yabai Yatsu (Ep: 06): 03:17:03
+Boku no Kokoro no Yabai Yatsu Season 2 (Ep: 05): 03:08:05
+Boku no Kokoro no Yabai Yatsu Season 2 (Ep: 06): 03:17:03
 One Piece (Ep: 1093): 03:30:46
 Zakończenie: 03:50:26
 _____________________________________
@@ -1297,7 +1297,7 @@ Kontynuacja 02: Sousou no Frieren (Ep: 23): 01:41:45
 Nowy Tytuł 03: Dosanko Gal wa Namara Menkoi (Ep: 06): 02:06:34
 Kontynuacja 03: Urusei Yatsura (2022) 2nd Season (Ep: 05): 02:22:09
 Nowy Tytuł 04: Sasaki to Pii-chan (Ep: 07): 02:37:19
-Kontynuacja 04: Boku no Kokoro no Yabai Yatsu (Ep: 07): 02:48:43
+Kontynuacja 04: Boku no Kokoro no Yabai Yatsu Season 2 (Ep: 07): 02:48:43
 Nowy Tytuł 05: Yubisaki to Renren (Ep: 06): 03:02:55
 Nowy Tytuł 05: Yubisaki to Renren (Ep: 07): 03:13:52
 Kontynuacja 05: Tsuki ga Michibiku Isekai Douchuu 2nd Season (Ep: 06): 03:23:54
@@ -1355,7 +1355,7 @@ Kusuriya no Hitorigoto (Ep: 21): 00:56:44
 Sousou no Frieren (Ep: 25): 01:19:32
 Ore dake Level Up na Ken (Ep: 08): 01:37:42
 Undead Unluck (Ep: 21): 01:51:57
-Boku no Kokoro no Yabai Yatsu (Ep: 08): 02:09:57
+Boku no Kokoro no Yabai Yatsu Season 2 (Ep: 08): 02:09:57
 Dosanko Gal wa Namara Menkoi (Ep: 08): 02:27:47
 Zakończenie: 02:43:36
 _____________________________________
@@ -1370,8 +1370,8 @@ Ore dake Level Up na Ken (Ep: 09): 00:39:49
 Kusuriya no Hitorigoto (Ep: 22): 00:58:30
 Sousou no Frieren (Ep: 26): 01:15:36
 Dungeon Meshi (Ep: 10): 01:34:08
-Boku no Kokoro no Yabai Yatsu (Ep: 09): 01:50:55
-Boku no Kokoro no Yabai Yatsu (Ep: 10): 02:08:13
+Boku no Kokoro no Yabai Yatsu Season 2 (Ep: 09): 01:50:55
+Boku no Kokoro no Yabai Yatsu Season 2 (Ep: 10): 02:08:13
 Tsuki ga Michibiku Isekai Douchuu 2nd Season (Ep: 09): 02:21:33
 Sasaki to Pii-chan (Ep: 09): 02:35:22
 Sasaki to Pii-chan (Ep: 10): 02:43:22
